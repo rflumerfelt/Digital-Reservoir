@@ -9,4 +9,5 @@ This repository contains database scripts and documentation for a basic subsurfa
       a.  Vertical wells using Voronio polygons
       b.  Horizontal wells using a tangent to the horizontal axis
 4.  Python scripts for latitude/longitude x/y coordinate transformations
-5.  Python scripts for loading Enverus csv output files
+5.  Python scripts for correlating fluid PVT properties
+6.  Python scripts for loading Enverus csv output files to a staging database
